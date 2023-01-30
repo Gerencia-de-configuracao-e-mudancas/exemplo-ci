@@ -1,0 +1,23 @@
+{
+  "name": "exemplo-ci",
+  "version": "1.0.0",
+  "description": "Exemplo de uso de integração contínua feito em sala",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulofreitasnt/exemplo-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulofreitasnt/exemplo-ci/issues"
+  },
+  "homepage": "https://github.com/paulofreitasnt/exemplo-ci#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
